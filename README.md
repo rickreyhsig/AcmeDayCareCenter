@@ -3,3 +3,5 @@ This is a basic LAMP application using PHP as the backend server language that c
 Uses HTTP Basic Authentication.
 
 The project specs are included as a docx file.
+
+Live at <http://www.redlinecorp.com/stuma/stu07/Project/>
